@@ -32,14 +32,15 @@
 ## 💼 Experience Highlights
 
 **🏛️ National Institutes of Health (NIH)** — Front-End Engineer  
-*2025 – Present*  
+*2022 – Present*  
 - Leading modernization of large-scale Angular applications (v13 → v20)
 - Improving performance, maintainability, and accessibility (Section 508)
 - Working across complex API ecosystems and regulated infrastructure
 
 **🏦 National Bank of Italy** — Front-End Engineer  
 - Led Angular migration of legacy systems  
-- Delivered secure, high-performance interfaces under strict regulatory requirements  
+- Delivered secure, high-performance interfaces under strict regulatory requirements
+- Modernized public-facing banking infrastructure under strict EU financial compliance requirements" — that's a powerful signal for international clients 
 
 **🛒 E-Commerce Platforms**  
 - Built customer-facing UIs and internal tools  
