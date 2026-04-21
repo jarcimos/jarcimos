@@ -31,7 +31,7 @@
 
 ## 💼 Experience Highlights
 
-**🏛️ National Institutes of Health (NIH)** — Front-End Engineer  
+**🏛️ National Institutes of Health (NIH)** — Software Engineer  
 *2022 – Present*  
 - Leading modernization of large-scale Angular applications (v13 → v20)
 - Improving performance, maintainability, and accessibility (Section 508)
